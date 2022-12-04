@@ -1,0 +1,212 @@
+@import "cssreset";
+.img{
+    width: 620px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+.img1{
+    width: 620px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.item{
+    width: 300px;
+    padding-bottom: 139px;
+}
+.item1{
+    width: 300px;
+    margin-right: 20px;
+    padding-bottom: 139px;
+}
+.icon1{
+    position: absolute;
+    top: 19px;
+    right: 342px;
+}
+.icon2{
+    position: absolute;
+    top: 19px;
+    right: 22px;
+}
+.icon3{
+    position: absolute;
+    top: 473px;
+    right: 342px;
+}
+.icon4{
+    position: absolute;
+    top: 473px;
+    right: 22px;
+}
+.icon5{
+    position: absolute;
+    top: 927px;
+    right: 342px;
+}
+.icon6{
+    position: absolute;
+    top: 927px;
+    right: 22px;
+}
+
+.a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    color: #3F5D45;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 90px;
+    padding-right: 90px;
+    background-color: #EAF0ED;
+    font-weight: bold;
+}
+.a1{
+    position: absolute;
+    top: 369px;
+}
+.a2{
+    position: absolute;
+    top: 369px;
+    left: 320px;
+}
+.a3{
+    position: absolute;
+    top: 823px;
+}
+.a4{
+    position: absolute;
+    top: 823px;
+    left: 320px;
+}
+.a5{
+    position: absolute;
+    top: 1277px;
+}
+.a6{
+    position: absolute;
+    top: 1277px;
+    left: 320px;
+}
+
+.b{
+    font-size: 20px;
+    color: #3F5D45;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 33px;
+    padding-right: 33px;
+    background-color: #FFFFFF;
+    border: 1px solid #EAF0ED;
+}
+.b1{
+    position: absolute;
+    top: 314px;
+}
+.b2{
+    position: absolute;
+    top: 314px;
+    left: 320px;
+}
+.b3{
+    position: absolute;
+    top: 768px;
+}
+.b4{
+    position: absolute;
+    top: 768px;
+    left: 320px;
+}
+.b5{
+    position: absolute;
+    top: 1222px;
+}
+.b6{
+    position: absolute;
+    top: 1222px;
+    left: 320px;
+}
+
+.style{
+    font-size: 16px;
+    color: #EAF0ED;
+    background: #3F5D45;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    writing-mode: vertical-lr; 
+}
+.style1{
+    position: absolute;
+    left: 20px;
+}
+.style2{
+    position: absolute;
+    left: 340px;
+}
+.style3{
+    position: absolute;
+    top: 454px;
+    left: 20px;
+}
+.style4{
+    position: absolute;
+    top: 454px;
+    left: 340px;
+}
+.style5{
+    position: absolute;
+    top: 908px;
+    left: 20px;
+}
+.style6{
+    position: absolute;
+    top: 908px;
+    left: 340px;
+}
+.c{
+    font-size: 20px;
+    color: #3F5D45;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 25px;
+    padding-right: 20px;
+    background-color: #FFFFFF;
+    border: 1px solid #EAF0ED;
+    font-weight: bold;
+}
+.c1{
+    position: absolute;
+    top: 314px;
+    left: 173px;
+}
+.c2{
+    position: absolute;
+    top: 314px;
+    left: 493px;
+}
+.c3{
+    position: absolute;
+    top: 768px;
+    left: 173px;
+}
+.c4{
+    position: absolute;
+    top: 768px;
+    left: 493px;
+}
+.c5{
+    position: absolute;
+    top: 1222px;
+    left: 173px;
+}
+.c6{
+    position: absolute;
+    top: 1222px;
+    left: 493px;
+}
